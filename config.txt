@@ -5,7 +5,7 @@
 # 公众号appSecret
 "app_secret": "4946b293121c4c4e6db098052da31e66",
 # 模板消息id
-"template_id": "T20YHBhpyff2PXyxOtW1K6801JV6lxy4ell8yvwRTJg",
+"template_id": "lCcNAwP2kVp0fjj34gxchUtQ0jv7WNScLwe8a5svH74",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
 "user": ["od5O46ObYoBGvwwPjFoUnfj1fhLg"],
 
@@ -16,8 +16,6 @@
 "tian_api": "406469b8d2dc49a280869858609c5ba2",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
 "region": "大竹",
-# 在一起的日子，格式同上
-"love_date": "2022-09-01",
 # 金句中文，如果为空，默认会读取金山的每日金句
 "note_ch": "",
 # 金句英文
